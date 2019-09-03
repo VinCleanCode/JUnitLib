@@ -3,8 +3,6 @@ package com.rp.lib.unittest.flow;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class calculatorTest {
 
     @Test
